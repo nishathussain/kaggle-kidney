@@ -1,0 +1,16 @@
+Exp1: 
+MODEL: U2-NET
+LOSS: BCE+Dice
+https://www.kaggle.com/bigironsphere/loss-function-library-keras-pytorch
+Step1: generate patch data by runing notebook : FasiAI_notebook_dataGen.ipynb
+Step2: clonee "U-2 NET" github
+Step3: model_training_smart.ipynb
+step4: submission.ipynb
+
+
+
+
+
+
+
+ 
